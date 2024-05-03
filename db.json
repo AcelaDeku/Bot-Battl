@@ -8,7 +8,7 @@
         "armor": 63,
         "bot_class": "Support",
         "catchphrase": "1010010101001101100011000111101",
-        "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png",
         "created_at": "2018-10-02T19:55:10.800Z",
         "updated_at": "2018-10-02T19:55:10.800Z"
       },
@@ -20,7 +20,7 @@
         "armor": 77,
         "bot_class": "Medic",
         "catchphrase": "0110011100000100011110100110011000011001",
-        "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quidemconsequaturaut.png",
         "created_at": "2018-10-02T19:55:10.827Z",
         "updated_at": "2018-10-02T19:55:10.827Z"
       },
@@ -32,7 +32,7 @@
         "armor": 60,
         "bot_class": "Witch",
         "catchphrase": "1100101001110111110010011010110",
-        "avatar_url": "https://robohash.org/idetcumque.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/idetcumque.png",
         "created_at": "2018-10-02T19:55:10.844Z",
         "updated_at": "2018-10-02T19:55:10.844Z"
       },
@@ -44,7 +44,7 @@
         "armor": 95,
         "bot_class": "Defender",
         "catchphrase": "00011101001001000000101100001100110",
-        "avatar_url": "https://robohash.org/corruptieaqueexcepturi.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/corruptieaqueexcepturi.png",
         "created_at": "2018-10-02T19:55:10.856Z",
         "updated_at": "2018-10-02T19:55:10.856Z"
       },
@@ -56,7 +56,7 @@
         "armor": 31,
         "bot_class": "Assault",
         "catchphrase": "010101111110111111101101010110010100101",
-        "avatar_url": "https://robohash.org/nisinequequas.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/nisinequequas.png",
         "created_at": "2018-10-02T19:55:10.867Z",
         "updated_at": "2018-10-02T19:55:10.867Z"
       },
@@ -68,7 +68,7 @@
         "armor": 52,
         "bot_class": "Support",
         "catchphrase": "00111100111001011111110010110111",
-        "avatar_url": "https://robohash.org/etutprovident.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/etutprovident.png",
         "created_at": "2018-10-02T19:55:10.887Z",
         "updated_at": "2018-10-02T19:55:10.887Z"
       },
@@ -80,7 +80,7 @@
         "armor": 58,
         "bot_class": "Support",
         "catchphrase": "0010110001011100111100101010101000",
-        "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/accusantiumetfacilis.png",
         "created_at": "2018-10-02T19:55:10.899Z",
         "updated_at": "2018-10-02T19:55:10.899Z"
       },
@@ -92,7 +92,7 @@
         "armor": 38,
         "bot_class": "Assault",
         "catchphrase": "1101111100001011111011011001011110010000",
-        "avatar_url": "https://robohash.org/blanditiisautlaudantium.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/blanditiisautlaudantium.png",
         "created_at": "2018-10-02T19:55:10.915Z",
         "updated_at": "2018-10-02T19:55:10.915Z"
       },
@@ -104,7 +104,7 @@
         "armor": 31,
         "bot_class": "Witch",
         "catchphrase": "11010100110000100001110001100000010111101000001100",
-        "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quirationerem.png",
         "created_at": "2018-10-02T19:55:10.940Z",
         "updated_at": "2018-10-02T19:55:10.940Z"
       },
@@ -116,7 +116,7 @@
         "armor": 28,
         "bot_class": "Assault",
         "catchphrase": "011001001111001011110110011100001101101101000",
-        "avatar_url": "https://robohash.org/aperiametfuga.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/aperiametfuga.png",
         "created_at": "2018-10-02T19:55:11.004Z",
         "updated_at": "2018-10-02T19:55:11.004Z"
       },
@@ -128,7 +128,7 @@
         "armor": 92,
         "bot_class": "Defender",
         "catchphrase": "100000011001011111110100110001010101100111001100",
-        "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/similiquereprehenderitet.png",
         "created_at": "2018-10-02T19:55:11.017Z",
         "updated_at": "2018-10-02T19:55:11.017Z"
       },
@@ -140,7 +140,7 @@
         "armor": 36,
         "bot_class": "Assault",
         "catchphrase": "00010011100010000010110100001001010000101001",
-        "avatar_url": "https://robohash.org/eiusautnihil.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/eiusautnihil.png",
         "created_at": "2018-10-02T19:55:11.032Z",
         "updated_at": "2018-10-02T19:55:11.032Z"
       },
@@ -152,7 +152,7 @@
         "armor": 71,
         "bot_class": "Medic",
         "catchphrase": "0110101011111010011111110110001000001011",
-        "avatar_url": "https://robohash.org/aliquamutvelit.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/aliquamutvelit.png",
         "created_at": "2018-10-02T19:55:11.046Z",
         "updated_at": "2018-10-02T19:55:11.046Z"
       },
@@ -164,7 +164,7 @@
         "armor": 82,
         "bot_class": "Medic",
         "catchphrase": "001101000100001110001111010100110000000110000101",
-        "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/autsaepeeveniet.png",
         "created_at": "2018-10-02T19:55:11.062Z",
         "updated_at": "2018-10-02T19:55:11.062Z"
       },
@@ -176,7 +176,7 @@
         "armor": 57,
         "bot_class": "Captain",
         "catchphrase": "010101111110111111010010110100101111100",
-        "avatar_url": "https://robohash.org/consecteturveritatisid.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/consecteturveritatisid.png",
         "created_at": "2018-10-02T19:55:11.093Z",
         "updated_at": "2018-10-02T19:55:11.093Z"
       },
@@ -188,7 +188,7 @@
         "armor": 36,
         "bot_class": "Assault",
         "catchphrase": "10001111010110110100111010011000011001100",
-        "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png",
         "created_at": "2018-10-02T19:55:11.119Z",
         "updated_at": "2018-10-02T19:55:11.119Z"
       },
@@ -200,7 +200,7 @@
         "armor": 91,
         "bot_class": "Defender",
         "catchphrase": "01110101111110001001100000101011111001",
-        "avatar_url": "https://robohash.org/eiuslaborumaliquid.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/eiuslaborumaliquid.png",
         "created_at": "2018-10-02T19:55:11.133Z",
         "updated_at": "2018-10-02T19:55:11.133Z"
       },
@@ -212,7 +212,7 @@
         "armor": 38,
         "bot_class": "Witch",
         "catchphrase": "110001011001010111010010110110000011110011100",
-        "avatar_url": "https://robohash.org/autearem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/autearem.png",
         "created_at": "2018-10-02T19:55:11.162Z",
         "updated_at": "2018-10-02T19:55:11.162Z"
       },
@@ -224,7 +224,7 @@
         "armor": 95,
         "bot_class": "Defender",
         "catchphrase": "00010100111100110110111001011111010011001",
-        "avatar_url": "https://robohash.org/repellendusporrosint.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/repellendusporrosint.png",
         "created_at": "2018-10-02T19:55:11.191Z",
         "updated_at": "2018-10-02T19:55:11.191Z"
       },
@@ -236,7 +236,7 @@
         "armor": 82,
         "bot_class": "Defender",
         "catchphrase": "001000111101100001000010000010000001000101",
-        "avatar_url": "https://robohash.org/ipsamexercitationemrem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/ipsamexercitationemrem.png",
         "created_at": "2018-10-02T19:55:11.203Z",
         "updated_at": "2018-10-02T19:55:11.203Z"
       },
@@ -248,7 +248,7 @@
         "armor": 39,
         "bot_class": "Assault",
         "catchphrase": "1010100000001001101101111100100011000010",
-        "avatar_url": "https://robohash.org/adipisciconsequaturnostrum.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/adipisciconsequaturnostrum.png",
         "created_at": "2018-10-02T19:55:11.213Z",
         "updated_at": "2018-10-02T19:55:11.213Z"
       },
@@ -260,7 +260,7 @@
         "armor": 26,
         "bot_class": "Assault",
         "catchphrase": "01011110101110001100111011110011100",
-        "avatar_url": "https://robohash.org/iddolormaxime.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/iddolormaxime.png",
         "created_at": "2018-10-02T19:55:11.224Z",
         "updated_at": "2018-10-02T19:55:11.224Z"
       },
@@ -272,7 +272,7 @@
         "armor": 99,
         "bot_class": "Defender",
         "catchphrase": "0001001101001110100110000010000",
-        "avatar_url": "https://robohash.org/verotemporecorrupti.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/verotemporecorrupti.png",
         "created_at": "2018-10-02T19:55:11.242Z",
         "updated_at": "2018-10-02T19:55:11.242Z"
       },
@@ -284,7 +284,7 @@
         "armor": 40,
         "bot_class": "Support",
         "catchphrase": "10110100111001100100100110100111000011101",
-        "avatar_url": "https://robohash.org/ducimusquiaut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/ducimusquiaut.png",
         "created_at": "2018-10-02T19:55:11.256Z",
         "updated_at": "2018-10-02T19:55:11.256Z"
       },
@@ -296,7 +296,7 @@
         "armor": 39,
         "bot_class": "Assault",
         "catchphrase": "11111011111110000110101011110000101",
-        "avatar_url": "https://robohash.org/quisrationeerror.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quisrationeerror.png",
         "created_at": "2018-10-02T19:55:11.303Z",
         "updated_at": "2018-10-02T19:55:11.303Z"
       },
@@ -308,7 +308,7 @@
         "armor": 100,
         "bot_class": "Defender",
         "catchphrase": "000111001010000110111010111110101010011",
-        "avatar_url": "https://robohash.org/consequunturetquis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/consequunturetquis.png",
         "created_at": "2018-10-02T19:55:11.327Z",
         "updated_at": "2018-10-02T19:55:11.327Z"
       },
@@ -320,7 +320,7 @@
         "armor": 90,
         "bot_class": "Defender",
         "catchphrase": "100001000111111101101000100101111100011111100110",
-        "avatar_url": "https://robohash.org/delenitipraesentiumaut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/delenitipraesentiumaut.png",
         "created_at": "2018-10-02T19:55:11.342Z",
         "updated_at": "2018-10-02T19:55:11.342Z"
       },
@@ -332,7 +332,7 @@
         "armor": 29,
         "bot_class": "Assault",
         "catchphrase": "10011000110110001111011111110110110010",
-        "avatar_url": "https://robohash.org/quidoloresit.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quidoloresit.png",
         "created_at": "2018-10-02T19:55:11.367Z",
         "updated_at": "2018-10-02T19:55:11.367Z"
       },
@@ -344,7 +344,7 @@
         "armor": 50,
         "bot_class": "Medic",
         "catchphrase": "0110011010100100010110100011000001110001001111",
-        "avatar_url": "https://robohash.org/beataequisaut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/beataequisaut.png",
         "created_at": "2018-10-02T19:55:11.387Z",
         "updated_at": "2018-10-02T19:55:11.387Z"
       },
@@ -356,7 +356,7 @@
         "armor": 23,
         "bot_class": "Assault",
         "catchphrase": "01111111011110101100110110111000101111010",
-        "avatar_url": "https://robohash.org/repellendusasperioresdolor.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/repellendusasperioresdolor.png",
         "created_at": "2018-10-02T19:55:11.439Z",
         "updated_at": "2018-10-02T19:55:11.439Z"
       },
@@ -368,7 +368,7 @@
         "armor": 44,
         "bot_class": "Witch",
         "catchphrase": "0111110010100110101111100011001001",
-        "avatar_url": "https://robohash.org/quodremnihil.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quodremnihil.png",
         "created_at": "2018-10-02T19:55:11.467Z",
         "updated_at": "2018-10-02T19:55:11.467Z"
       },
@@ -380,7 +380,7 @@
         "armor": 93,
         "bot_class": "Defender",
         "catchphrase": "00111100011001000010010011000100000001001",
-        "avatar_url": "https://robohash.org/isteoptiodolorem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/isteoptiodolorem.png",
         "created_at": "2018-10-02T19:55:11.481Z",
         "updated_at": "2018-10-02T19:55:11.481Z"
       },
@@ -392,7 +392,7 @@
         "armor": 93,
         "bot_class": "Defender",
         "catchphrase": "01111001010100000000111111110110100",
-        "avatar_url": "https://robohash.org/vitaeutporro.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/vitaeutporro.png",
         "created_at": "2018-10-02T19:55:11.501Z",
         "updated_at": "2018-10-02T19:55:11.501Z"
       },
@@ -404,7 +404,7 @@
         "armor": 81,
         "bot_class": "Defender",
         "catchphrase": "11101000001100011110000010000111101",
-        "avatar_url": "https://robohash.org/oditdoloresullam.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/oditdoloresullam.png",
         "created_at": "2018-10-02T19:55:11.528Z",
         "updated_at": "2018-10-02T19:55:11.528Z"
       },
@@ -416,7 +416,7 @@
         "armor": 66,
         "bot_class": "Captain",
         "catchphrase": "101100000111010111111101010111101101100101101111",
-        "avatar_url": "https://robohash.org/doloretqui.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/doloretqui.png",
         "created_at": "2018-10-02T19:55:11.544Z",
         "updated_at": "2018-10-02T19:55:11.544Z"
       },
@@ -428,7 +428,7 @@
         "armor": 33,
         "bot_class": "Assault",
         "catchphrase": "111010011011101000101011100110000",
-        "avatar_url": "https://robohash.org/dolorumnumquamratione.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/dolorumnumquamratione.png",
         "created_at": "2018-10-02T19:55:11.573Z",
         "updated_at": "2018-10-02T19:55:11.573Z"
       },
@@ -440,7 +440,7 @@
         "armor": 55,
         "bot_class": "Medic",
         "catchphrase": "01000001001000001101011100100001100110100010",
-        "avatar_url": "https://robohash.org/sitvoluptatemipsa.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/sitvoluptatemipsa.png",
         "created_at": "2018-10-02T19:55:11.595Z",
         "updated_at": "2018-10-02T19:55:11.595Z"
       },
@@ -452,7 +452,7 @@
         "armor": 20,
         "bot_class": "Assault",
         "catchphrase": "1000001010000010100010110101100001111001110",
-        "avatar_url": "https://robohash.org/essesaepeeaque.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/essesaepeeaque.png",
         "created_at": "2018-10-02T19:55:11.615Z",
         "updated_at": "2018-10-02T19:55:11.615Z"
       },
@@ -464,7 +464,7 @@
         "armor": 56,
         "bot_class": "Support",
         "catchphrase": "0011111011110111010101100111111011110",
-        "avatar_url": "https://robohash.org/quinatuset.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quinatuset.png",
         "created_at": "2018-10-02T19:55:11.639Z",
         "updated_at": "2018-10-02T19:55:11.639Z"
       },
@@ -476,7 +476,7 @@
         "armor": 57,
         "bot_class": "Medic",
         "catchphrase": "10100010100100010001011010001100101101",
-        "avatar_url": "https://robohash.org/quivelitdolores.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quivelitdolores.png",
         "created_at": "2018-10-02T19:55:11.650Z",
         "updated_at": "2018-10-02T19:55:11.650Z"
       },
@@ -488,7 +488,7 @@
         "armor": 94,
         "bot_class": "Defender",
         "catchphrase": "10101000001010101110000010100010010101100111101",
-        "avatar_url": "https://robohash.org/quascumqueaut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quascumqueaut.png",
         "created_at": "2018-10-02T19:55:11.668Z",
         "updated_at": "2018-10-02T19:55:11.668Z"
       },
@@ -500,7 +500,7 @@
         "armor": 48,
         "bot_class": "Captain",
         "catchphrase": "1011000100100010001011101110000",
-        "avatar_url": "https://robohash.org/adrecusandaevoluptatem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/adrecusandaevoluptatem.png",
         "created_at": "2018-10-02T19:55:11.695Z",
         "updated_at": "2018-10-02T19:55:11.695Z"
       },
@@ -512,7 +512,7 @@
         "armor": 51,
         "bot_class": "Medic",
         "catchphrase": "101100011111101001101011111101110100",
-        "avatar_url": "https://robohash.org/facerenequevoluptas.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/facerenequevoluptas.png",
         "created_at": "2018-10-02T19:55:11.718Z",
         "updated_at": "2018-10-02T19:55:11.718Z"
       },
@@ -524,7 +524,7 @@
         "armor": 80,
         "bot_class": "Support",
         "catchphrase": "110000000100101110010011001000",
-        "avatar_url": "https://robohash.org/quisuntest.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quisuntest.png",
         "created_at": "2018-10-02T19:55:11.737Z",
         "updated_at": "2018-10-02T19:55:11.737Z"
       },
@@ -536,7 +536,7 @@
         "armor": 69,
         "bot_class": "Support",
         "catchphrase": "0010100000000000011000110010001111001010111001100",
-        "avatar_url": "https://robohash.org/laborumteneturquos.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/laborumteneturquos.png",
         "created_at": "2018-10-02T19:55:11.745Z",
         "updated_at": "2018-10-02T19:55:11.745Z"
       },
@@ -548,7 +548,7 @@
         "armor": 21,
         "bot_class": "Assault",
         "catchphrase": "0001111111101111001010110111010011",
-        "avatar_url": "https://robohash.org/quosolutaprovident.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quosolutaprovident.png",
         "created_at": "2018-10-02T19:55:11.756Z",
         "updated_at": "2018-10-02T19:55:11.756Z"
       },
@@ -560,7 +560,7 @@
         "armor": 53,
         "bot_class": "Captain",
         "catchphrase": "11001001101000100000101000001110010010011000111001",
-        "avatar_url": "https://robohash.org/eosrerumin.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/eosrerumin.png",
         "created_at": "2018-10-02T19:55:11.767Z",
         "updated_at": "2018-10-02T19:55:11.767Z"
       },
@@ -572,7 +572,7 @@
         "armor": 97,
         "bot_class": "Witch",
         "catchphrase": "10111001100010001100111011111110101010110",
-        "avatar_url": "https://robohash.org/maioresofficiisrepellat.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/maioresofficiisrepellat.png",
         "created_at": "2018-10-02T19:55:11.781Z",
         "updated_at": "2018-10-02T19:55:11.781Z"
       },
@@ -584,7 +584,7 @@
         "armor": 51,
         "bot_class": "Support",
         "catchphrase": "0011010000110100010110011001001010101000100001101",
-        "avatar_url": "https://robohash.org/sedofficiadeserunt.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/sedofficiadeserunt.png",
         "created_at": "2018-10-02T19:55:11.795Z",
         "updated_at": "2018-10-02T19:55:11.795Z"
       },
@@ -596,7 +596,7 @@
         "armor": 44,
         "bot_class": "Support",
         "catchphrase": "011000011111000111001100101111110000",
-        "avatar_url": "https://robohash.org/necessitatibusquisunt.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/necessitatibusquisunt.png",
         "created_at": "2018-10-02T19:55:11.807Z",
         "updated_at": "2018-10-02T19:55:11.807Z"
       },
@@ -608,7 +608,7 @@
         "armor": 89,
         "bot_class": "Defender",
         "catchphrase": "01100010001101100101101011011011100101100110111",
-        "avatar_url": "https://robohash.org/repellatdistinctioitaque.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/repellatdistinctioitaque.png",
         "created_at": "2018-10-02T19:55:11.820Z",
         "updated_at": "2018-10-02T19:55:11.820Z"
       },
@@ -620,7 +620,7 @@
         "armor": 97,
         "bot_class": "Defender",
         "catchphrase": "01000111011001110101110100000111110111",
-        "avatar_url": "https://robohash.org/autnesciunteos.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/autnesciunteos.png",
         "created_at": "2018-10-02T19:55:11.840Z",
         "updated_at": "2018-10-02T19:55:11.840Z"
       },
@@ -632,7 +632,7 @@
         "armor": 45,
         "bot_class": "Medic",
         "catchphrase": "11001011011101010110101100111100010110001010001000",
-        "avatar_url": "https://robohash.org/maximedelenitiveritatis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/maximedelenitiveritatis.png",
         "created_at": "2018-10-02T19:55:11.862Z",
         "updated_at": "2018-10-02T19:55:11.862Z"
       },
@@ -644,7 +644,7 @@
         "armor": 86,
         "bot_class": "Defender",
         "catchphrase": "11001011101101110000110000110110000001",
-        "avatar_url": "https://robohash.org/aliquidvoluptatemperspiciatis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/aliquidvoluptatemperspiciatis.png",
         "created_at": "2018-10-02T19:55:11.881Z",
         "updated_at": "2018-10-02T19:55:11.881Z"
       },
@@ -656,7 +656,7 @@
         "armor": 70,
         "bot_class": "Support",
         "catchphrase": "101110100000101000101110110000001101011101001001",
-        "avatar_url": "https://robohash.org/temporibusavel.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/temporibusavel.png",
         "created_at": "2018-10-02T19:55:11.903Z",
         "updated_at": "2018-10-02T19:55:11.903Z"
       },
@@ -668,7 +668,7 @@
         "armor": 95,
         "bot_class": "Defender",
         "catchphrase": "0000110100110001000101011011110110000100101110",
-        "avatar_url": "https://robohash.org/ututquasi.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/ututquasi.png",
         "created_at": "2018-10-02T19:55:11.918Z",
         "updated_at": "2018-10-02T19:55:11.918Z"
       },
@@ -680,7 +680,7 @@
         "armor": 38,
         "bot_class": "Assault",
         "catchphrase": "0011010110001111110000000000011011111010011101101",
-        "avatar_url": "https://robohash.org/omnisidnumquam.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/omnisidnumquam.png",
         "created_at": "2018-10-02T19:55:11.931Z",
         "updated_at": "2018-10-02T19:55:11.931Z"
       },
@@ -692,7 +692,7 @@
         "armor": 59,
         "bot_class": "Captain",
         "catchphrase": "0000100000010100100101001000000000",
-        "avatar_url": "https://robohash.org/fugasuntiure.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/fugasuntiure.png",
         "created_at": "2018-10-02T19:55:11.943Z",
         "updated_at": "2018-10-02T19:55:11.943Z"
       },
@@ -704,7 +704,7 @@
         "armor": 39,
         "bot_class": "Assault",
         "catchphrase": "111101111111011011111111001001100010011010",
-        "avatar_url": "https://robohash.org/voluptatemquasest.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/voluptatemquasest.png",
         "created_at": "2018-10-02T19:55:11.955Z",
         "updated_at": "2018-10-02T19:55:11.955Z"
       },
@@ -716,7 +716,7 @@
         "armor": 35,
         "bot_class": "Assault",
         "catchphrase": "10101001000101001111010001111000",
-        "avatar_url": "https://robohash.org/eumdelenitivoluptas.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/eumdelenitivoluptas.png",
         "created_at": "2018-10-02T19:55:11.965Z",
         "updated_at": "2018-10-02T19:55:11.965Z"
       },
@@ -728,7 +728,7 @@
         "armor": 40,
         "bot_class": "Assault",
         "catchphrase": "1011110110000001111100010101001101111110",
-        "avatar_url": "https://robohash.org/adeseruntnatus.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/adeseruntnatus.png",
         "created_at": "2018-10-02T19:55:11.975Z",
         "updated_at": "2018-10-02T19:55:11.975Z"
       },
@@ -740,7 +740,7 @@
         "armor": 92,
         "bot_class": "Defender",
         "catchphrase": "011101110111001100001010011100111101100",
-        "avatar_url": "https://robohash.org/dolormolestiascorrupti.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/dolormolestiascorrupti.png",
         "created_at": "2018-10-02T19:55:11.982Z",
         "updated_at": "2018-10-02T19:55:11.982Z"
       },
@@ -752,7 +752,7 @@
         "armor": 50,
         "bot_class": "Medic",
         "catchphrase": "110110000001000110110100100101011001100111",
-        "avatar_url": "https://robohash.org/etipsumsed.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/etipsumsed.png",
         "created_at": "2018-10-02T19:55:11.989Z",
         "updated_at": "2018-10-02T19:55:11.989Z"
       },
@@ -764,7 +764,7 @@
         "armor": 42,
         "bot_class": "Support",
         "catchphrase": "001100000010111000011110101001110000",
-        "avatar_url": "https://robohash.org/ametsitqui.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/ametsitqui.png",
         "created_at": "2018-10-02T19:55:11.995Z",
         "updated_at": "2018-10-02T19:55:11.995Z"
       },
@@ -776,7 +776,7 @@
         "armor": 64,
         "bot_class": "Support",
         "catchphrase": "1100111000111001100000100110011",
-        "avatar_url": "https://robohash.org/exquisat.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/exquisat.png",
         "created_at": "2018-10-02T19:55:12.001Z",
         "updated_at": "2018-10-02T19:55:12.001Z"
       },
@@ -788,7 +788,7 @@
         "armor": 50,
         "bot_class": "Captain",
         "catchphrase": "1101001111111101010101110001001",
-        "avatar_url": "https://robohash.org/seddoloremest.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/seddoloremest.png",
         "created_at": "2018-10-02T19:55:12.006Z",
         "updated_at": "2018-10-02T19:55:12.006Z"
       },
@@ -800,7 +800,7 @@
         "armor": 77,
         "bot_class": "Support",
         "catchphrase": "0101001000001101000110010001011010000001100",
-        "avatar_url": "https://robohash.org/aperiamautemconsectetur.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/aperiamautemconsectetur.png",
         "created_at": "2018-10-02T19:55:12.017Z",
         "updated_at": "2018-10-02T19:55:12.017Z"
       },
@@ -812,7 +812,7 @@
         "armor": 85,
         "bot_class": "Defender",
         "catchphrase": "1010010110100101010101101010110110001101111111110",
-        "avatar_url": "https://robohash.org/nobisdoloremad.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/nobisdoloremad.png",
         "created_at": "2018-10-02T19:55:12.024Z",
         "updated_at": "2018-10-02T19:55:12.024Z"
       },
@@ -824,7 +824,7 @@
         "armor": 41,
         "bot_class": "Support",
         "catchphrase": "0100101110100101011110000110111101110110",
-        "avatar_url": "https://robohash.org/quibusdamveritatisquaerat.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quibusdamveritatisquaerat.png",
         "created_at": "2018-10-02T19:55:12.043Z",
         "updated_at": "2018-10-02T19:55:12.043Z"
       },
@@ -836,7 +836,7 @@
         "armor": 95,
         "bot_class": "Medic",
         "catchphrase": "010001001110010010111110101101001110100110000",
-        "avatar_url": "https://robohash.org/inearumrerum.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/inearumrerum.png",
         "created_at": "2018-10-02T19:55:12.072Z",
         "updated_at": "2018-10-02T19:55:12.072Z"
       },
@@ -848,7 +848,7 @@
         "armor": 35,
         "bot_class": "Assault",
         "catchphrase": "0010011110010110000100111001100111011001",
-        "avatar_url": "https://robohash.org/inventoreisteut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/inventoreisteut.png",
         "created_at": "2018-10-02T19:55:12.090Z",
         "updated_at": "2018-10-02T19:55:12.090Z"
       },
@@ -860,7 +860,7 @@
         "armor": 37,
         "bot_class": "Assault",
         "catchphrase": "10011100101000000011001100101100011011011",
-        "avatar_url": "https://robohash.org/velitfacerequo.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/velitfacerequo.png",
         "created_at": "2018-10-02T19:55:12.107Z",
         "updated_at": "2018-10-02T19:55:12.107Z"
       },
@@ -872,7 +872,7 @@
         "armor": 78,
         "bot_class": "Support",
         "catchphrase": "00100101111111101000101110011101110",
-        "avatar_url": "https://robohash.org/delenitietqui.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/delenitietqui.png",
         "created_at": "2018-10-02T19:55:12.127Z",
         "updated_at": "2018-10-02T19:55:12.127Z"
       },
@@ -884,7 +884,7 @@
         "armor": 66,
         "bot_class": "Support",
         "catchphrase": "00011011100110100111110100101000011",
-        "avatar_url": "https://robohash.org/exeaut.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/exeaut.png",
         "created_at": "2018-10-02T19:55:12.139Z",
         "updated_at": "2018-10-02T19:55:12.139Z"
       },
@@ -896,7 +896,7 @@
         "armor": 85,
         "bot_class": "Defender",
         "catchphrase": "001111111101111100100100100010010001010001111",
-        "avatar_url": "https://robohash.org/sedincidunteos.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/sedincidunteos.png",
         "created_at": "2018-10-02T19:55:12.149Z",
         "updated_at": "2018-10-02T19:55:12.149Z"
       },
@@ -908,7 +908,7 @@
         "armor": 25,
         "bot_class": "Assault",
         "catchphrase": "110001010000010100100110001001010010011",
-        "avatar_url": "https://robohash.org/eosquasiblanditiis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/eosquasiblanditiis.png",
         "created_at": "2018-10-02T19:55:12.162Z",
         "updated_at": "2018-10-02T19:55:12.162Z"
       },
@@ -920,7 +920,7 @@
         "armor": 92,
         "bot_class": "Defender",
         "catchphrase": "001010111011001001110010110110110",
-        "avatar_url": "https://robohash.org/quiaesserepudiandae.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quiaesserepudiandae.png",
         "created_at": "2018-10-02T19:55:12.172Z",
         "updated_at": "2018-10-02T19:55:12.172Z"
       },
@@ -932,7 +932,7 @@
         "armor": 98,
         "bot_class": "Defender",
         "catchphrase": "0111000100001110011100101001001001",
-        "avatar_url": "https://robohash.org/quoassumendadolorem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quoassumendadolorem.png",
         "created_at": "2018-10-02T19:55:12.190Z",
         "updated_at": "2018-10-02T19:55:12.190Z"
       },
@@ -944,7 +944,7 @@
         "armor": 30,
         "bot_class": "Assault",
         "catchphrase": "000000001000011111101101011101101010111011000110",
-        "avatar_url": "https://robohash.org/quolaborumnisi.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quolaborumnisi.png",
         "created_at": "2018-10-02T19:55:12.207Z",
         "updated_at": "2018-10-02T19:55:12.207Z"
       },
@@ -956,7 +956,7 @@
         "armor": 99,
         "bot_class": "Defender",
         "catchphrase": "010001011110101110011011101001010100010010111110",
-        "avatar_url": "https://robohash.org/invelitmaiores.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/invelitmaiores.png",
         "created_at": "2018-10-02T19:55:12.230Z",
         "updated_at": "2018-10-02T19:55:12.230Z"
       },
@@ -968,7 +968,7 @@
         "armor": 72,
         "bot_class": "Support",
         "catchphrase": "1111000010010001110101100101010",
-        "avatar_url": "https://robohash.org/architectocorruptiaccusantium.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/architectocorruptiaccusantium.png",
         "created_at": "2018-10-02T19:55:12.245Z",
         "updated_at": "2018-10-02T19:55:12.245Z"
       },
@@ -980,7 +980,7 @@
         "armor": 82,
         "bot_class": "Defender",
         "catchphrase": "111101011000001011001011001001101000",
-        "avatar_url": "https://robohash.org/vitaeporrovoluptas.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/vitaeporrovoluptas.png",
         "created_at": "2018-10-02T19:55:12.271Z",
         "updated_at": "2018-10-02T19:55:12.271Z"
       },
@@ -992,7 +992,7 @@
         "armor": 87,
         "bot_class": "Defender",
         "catchphrase": "1101001101000111110101010010000100010011011010",
-        "avatar_url": "https://robohash.org/rationeducimusveritatis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/rationeducimusveritatis.png",
         "created_at": "2018-10-02T19:55:12.295Z",
         "updated_at": "2018-10-02T19:55:12.295Z"
       },
@@ -1004,7 +1004,7 @@
         "armor": 99,
         "bot_class": "Defender",
         "catchphrase": "011010000100010111000000111011011010111111010",
-        "avatar_url": "https://robohash.org/consecteturinventoredolor.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/consecteturinventoredolor.png",
         "created_at": "2018-10-02T19:55:12.314Z",
         "updated_at": "2018-10-02T19:55:12.314Z"
       },
@@ -1016,7 +1016,7 @@
         "armor": 32,
         "bot_class": "Assault",
         "catchphrase": "00000010101001101010001101011010010101111100",
-        "avatar_url": "https://robohash.org/culpavoluptatemdeleniti.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/culpavoluptatemdeleniti.png",
         "created_at": "2018-10-02T19:55:12.339Z",
         "updated_at": "2018-10-02T19:55:12.339Z"
       },
@@ -1028,7 +1028,7 @@
         "armor": 98,
         "bot_class": "Defender",
         "catchphrase": "1001111001000111010111110010111101111",
-        "avatar_url": "https://robohash.org/isteaeos.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/isteaeos.png",
         "created_at": "2018-10-02T19:55:12.348Z",
         "updated_at": "2018-10-02T19:55:12.348Z"
       },
@@ -1040,7 +1040,7 @@
         "armor": 87,
         "bot_class": "Defender",
         "catchphrase": "1111011100100111110111100111010010100001",
-        "avatar_url": "https://robohash.org/ipsumsedrecusandae.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/ipsumsedrecusandae.png",
         "created_at": "2018-10-02T19:55:12.366Z",
         "updated_at": "2018-10-02T19:55:12.366Z"
       },
@@ -1052,7 +1052,7 @@
         "armor": 75,
         "bot_class": "Captain",
         "catchphrase": "001010010010111000011110101111000110111010",
-        "avatar_url": "https://robohash.org/doloribusetsint.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/doloribusetsint.png",
         "created_at": "2018-10-02T19:55:12.378Z",
         "updated_at": "2018-10-02T19:55:12.378Z"
       },
@@ -1064,7 +1064,7 @@
         "armor": 100,
         "bot_class": "Defender",
         "catchphrase": "111110111100011000000000111011101",
-        "avatar_url": "https://robohash.org/quiomniset.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/quiomniset.png",
         "created_at": "2018-10-02T19:55:12.397Z",
         "updated_at": "2018-10-02T19:55:12.397Z"
       },
@@ -1076,7 +1076,7 @@
         "armor": 44,
         "bot_class": "Medic",
         "catchphrase": "01000110010101110000101101100110000110000110011000",
-        "avatar_url": "https://robohash.org/nobissimiliquequae.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/nobissimiliquequae.png",
         "created_at": "2018-10-02T19:55:12.407Z",
         "updated_at": "2018-10-02T19:55:12.407Z"
       },
@@ -1088,7 +1088,7 @@
         "armor": 85,
         "bot_class": "Medic",
         "catchphrase": "11001111001000101000111000110100",
-        "avatar_url": "https://robohash.org/cumomnisautem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/cumomnisautem.png",
         "created_at": "2018-10-02T19:55:12.417Z",
         "updated_at": "2018-10-02T19:55:12.417Z"
       },
@@ -1100,7 +1100,7 @@
         "armor": 29,
         "bot_class": "Assault",
         "catchphrase": "110100100001001011011010011100000010111100100",
-        "avatar_url": "https://robohash.org/nullaconsequatursuscipit.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/nullaconsequatursuscipit.png",
         "created_at": "2018-10-02T19:55:12.432Z",
         "updated_at": "2018-10-02T19:55:12.432Z"
       },
@@ -1112,7 +1112,7 @@
         "armor": 21,
         "bot_class": "Assault",
         "catchphrase": "00000101111111110101111000010101",
-        "avatar_url": "https://robohash.org/eumdoloredoloribus.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/eumdoloredoloribus.png",
         "created_at": "2018-10-02T19:55:12.447Z",
         "updated_at": "2018-10-02T19:55:12.447Z"
       },
@@ -1124,7 +1124,7 @@
         "armor": 26,
         "bot_class": "Assault",
         "catchphrase": "11101101111011101001100000011100101110",
-        "avatar_url": "https://robohash.org/molestiaenihilautem.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/molestiaenihilautem.png",
         "created_at": "2018-10-02T19:55:12.463Z",
         "updated_at": "2018-10-02T19:55:12.463Z"
       },
@@ -1136,7 +1136,7 @@
         "armor": 48,
         "bot_class": "Medic",
         "catchphrase": "0111111001000010010100010110010",
-        "avatar_url": "https://robohash.org/aliasquoest.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/aliasquoest.png",
         "created_at": "2018-10-02T19:55:12.475Z",
         "updated_at": "2018-10-02T19:55:12.475Z"
       },
@@ -1148,7 +1148,7 @@
         "armor": 67,
         "bot_class": "Support",
         "catchphrase": "011011110001101100011000100111010100011000010",
-        "avatar_url": "https://robohash.org/nulladoloratque.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/nulladoloratque.png",
         "created_at": "2018-10-02T19:55:12.487Z",
         "updated_at": "2018-10-02T19:55:12.487Z"
       },
@@ -1160,7 +1160,7 @@
         "armor": 55,
         "bot_class": "Support",
         "catchphrase": "11111100001011110000010011111100111100",
-        "avatar_url": "https://robohash.org/commodiidasperiores.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/commodiidasperiores.png",
         "created_at": "2018-10-02T19:55:12.503Z",
         "updated_at": "2018-10-02T19:55:12.503Z"
       },
@@ -1172,7 +1172,7 @@
         "armor": 32,
         "bot_class": "Assault",
         "catchphrase": "111110001100001011101010110011111001000001",
-        "avatar_url": "https://robohash.org/dictasolutanatus.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/dictasolutanatus.png",
         "created_at": "2018-10-02T19:55:12.512Z",
         "updated_at": "2018-10-02T19:55:12.512Z"
       },
@@ -1184,7 +1184,7 @@
         "armor": 81,
         "bot_class": "Defender",
         "catchphrase": "0101101100101100001100110000101001111010111",
-        "avatar_url": "https://robohash.org/sedhicquo.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/sedhicquo.png",
         "created_at": "2018-10-02T19:55:12.525Z",
         "updated_at": "2018-10-02T19:55:12.525Z"
       },
@@ -1196,7 +1196,7 @@
         "armor": 68,
         "bot_class": "Captain",
         "catchphrase": "0111100000101111011000110101110111110000",
-        "avatar_url": "https://robohash.org/teneturquaereiciendis.png?size=300x300&set=set1",
+        "avatar_url": "https://robohash.org/teneturquaereiciendis.png",
         "created_at": "2018-10-02T19:55:12.537Z",
         "updated_at": "2018-10-02T19:55:12.537Z"
       }
