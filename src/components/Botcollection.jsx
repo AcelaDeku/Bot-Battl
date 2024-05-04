@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import BotCard from './BotCard';
 import { useParams } from 'react-router-dom';

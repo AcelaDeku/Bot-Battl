@@ -59,6 +59,7 @@
 .bot-card img {
   max-width: 100%;
   height: auto;
+  background-color: #fff;
 }
 
 .bot-details {
@@ -128,4 +129,59 @@
 
 .bot-card p {
   margin: 5px 0;
+}
+
+
+
+.bot-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.bot-detail img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /* Make the image circular */
+  margin-bottom: 20px;
+}
+
+.bot-detail h3 {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.bot-detail p {
+  margin-bottom: 0;
+}
+
+.bot-detail button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.bot-detail button:hover {
+  background-color: #0056b3;
+}
+
+.bot-detail button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.back-link {
+  margin-bottom: 20px;
+  color: #007bff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.back-link:hover {
+  text-decoration: underline;
 }

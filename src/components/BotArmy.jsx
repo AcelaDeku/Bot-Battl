@@ -1,7 +1,8 @@
 
+
 import React from 'react';
 
-const BotArmy = ({ army, handleReleaseFromArmy ,bot }) => {
+const BotArmy = ({ army, handleReleaseFromArmy,deleteBot }) => {
   return (
     <div className="bot-army">
       <h1>Your Bot Army</h1>
@@ -15,6 +16,7 @@ const BotArmy = ({ army, handleReleaseFromArmy ,bot }) => {
               <p>❤️: {bot.health}</p>
               <p>💀: {bot.damage}</p>
               <p>Armor: {bot.armor}</p>
+              <button onClick={() => deleteBot(bot)} > X </button>
               <button onClick={() => handleReleaseFromArmy(bot)}>Release</button>
             </div>
           </div>
@@ -22,7 +24,6 @@ const BotArmy = ({ army, handleReleaseFromArmy ,bot }) => {
       </div>
     </div>
   );
-};
+}; 
 
 export default BotArmy;
-
