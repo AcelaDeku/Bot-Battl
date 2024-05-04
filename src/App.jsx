@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Botcollection from './components/Botcollection';
+
 import BotDetails from './components/BotDetails';
-import { Router,Route } from 'react-router-dom';
+import { Routes,Route } from 'react-router-dom';
 
 function App() {
   const [bots, setBots] = useState([]);
@@ -17,8 +18,13 @@ function App() {
   return (
     <div className="App">
       <h1>Bot Army</h1>
-    {/* <Router></Router> */}
-      <Botcollection bots={bots} />
+    <Routes>
+    <Route path='/' element={<Botcollection bots={bots}  />}/>
+    <Route path='/bots/:id' element={<BotDetails bots={bots}/>}/>
+ 
+
+    </Routes>
+      
     </div>
   );
 }
