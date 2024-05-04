@@ -1,4 +1,4 @@
-// components/YourBotArmy/YourBotArmy.js
+
 import React from 'react';
 
 const BotArmy = ({ army, onReleaseFromArmy }) => {
