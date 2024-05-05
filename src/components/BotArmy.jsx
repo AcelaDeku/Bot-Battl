@@ -14,7 +14,8 @@ const BotArmy = ({ army, handleReleaseFromArmy,deleteBot }) => {
               <p>❤️: {bot.health}</p>
               <p>💀: {bot.damage}</p>
               <p>Armor: {bot.armor}</p>
-              <button onClick={() => deleteBot(bot)} > X </button>
+              <p><button onClick={() => deleteBot(bot)} > X </button></p>
+              
               <button onClick={() => handleReleaseFromArmy(bot)}>Release</button>
             </div>
           </div>

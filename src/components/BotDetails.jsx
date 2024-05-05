@@ -27,7 +27,7 @@ function BotDetails({ bots, handleAddToArmy,deleteBot }) {
 
   return (
     <div className="bot-detail-2">
-       <h2>Bot Details</h2>
+       <h2 className='bot-detail-head'>Bot Details</h2>
       <img src={bot.avatar_url} alt={bot.name} />
      
       <h3>{bot.name}</h3>
@@ -36,6 +36,7 @@ function BotDetails({ bots, handleAddToArmy,deleteBot }) {
       <p>❤️: {bot.health}</p>
       <p>💀: {bot.damage}</p>
       <p>Armor: {bot.armor}</p>
+      
       <Link to="/"className="back-link">Back</Link>
       <button onClick={addToArmy} disabled={addedToArmy}>
         {addedToArmy ? "Checked Out" : "Add To Army"}

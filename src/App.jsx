@@ -42,11 +42,12 @@ function App() {
     .then(data =>console.log(data))
    
   };
-  const sortBots = (property) => {
-    const sortedBots = [...bots].sort((a, b) => a[property] - b[property]);
+  function sortBots (property) {
+ 
+    const sortedBots = bots.slice();
+    sortedBots.sort((a, b) => a[property] - b[property]);
     setBots(sortedBots);
   };
-  
 
   
 
@@ -55,7 +56,7 @@ function App() {
        <SortBar sortBots={sortBots}  />
       
       <BotArmy army={army} handleReleaseFromArmy={handleReleaseFromArmy} deleteBot={deleteBot}/>
-      <h1>Bot Army</h1>
+      <h1 className='app-head'>Bot Army</h1>
       <Routes>
         <Route path='/' element={<Botcollection bots={bots} />} />
         <Route path='/bots/:id' element={<BotDetails bots={bots} handleAddToArmy={handleAddToArmy} />} />
