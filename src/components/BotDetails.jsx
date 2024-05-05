@@ -26,7 +26,7 @@ function BotDetails({ bots, handleAddToArmy,deleteBot }) {
   };
 
   return (
-    <div className="bot-detail">
+    <div className="bot-detail-2">
        <h2>Bot Details</h2>
       <img src={bot.avatar_url} alt={bot.name} />
      

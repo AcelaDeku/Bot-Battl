@@ -40,146 +40,161 @@
 .read-the-docs {
   color: #888;
 }
-/* styles.css */
 
-/* styles.css */
-.bot-collection {
+
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+
+/* Bot collection styles */
+.bot-collection-1 {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  justify-content: space-evenly; 
+  margin-bottom: 20px;
 }
 
-.bot-card {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 20px;
-  width: 200px;
-}
-
-.bot-card img {
-  max-width: 100%;
-  height: auto;
+/* Bot card styles */
+.bot-card-1 {
+  flex: 0 1 300px;
   background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px; 
+  margin-right: 20px; 
 }
 
-.bot-details {
-  max-width: 400px;
-  margin: 0 auto;
+
+.bot-card-1 img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+/* Bot details styles */
+.bot-detail-2 {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
   text-align: center;
 }
 
-.bot-details img {
-  max-width: 100%;
-  height: auto;
+.bot-detail-2 img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
 
-.bot-details h3 {
-  margin-top: 10px;
-}
-
-.bot-details p {
-  margin: 5px 0;
-}
-
-.bot-details button {
-  margin-top: 10px;
-}
-/* styles.css */
-
-/* styles.css */
-
-.bot-army {
+/* Sort bar styles */
+.sort-bar-1 {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.bot-army h1 {
+  justify-content: center;
   margin-bottom: 20px;
 }
 
-.bot-card-container {
+.sort-bar-1 button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.sort-bar-1 button:hover {
+  background-color: #45a049;
+}
+
+
+
+/* Bot army styles */
+.bot-army-5 {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.bot-army-5 h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bot-army-5 .bot-card-container-3 {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly; 
 }
 
-.bot-card {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px;
-  width: 200px;
-  display: flex;
-}
-
-.bot-card img {
-  width: 50px;
-  height: 50px;
-  margin-right: 10px;
-}
-
-.bot-card div {
-  flex: 1;
-}
-
-.bot-card h3 {
-  margin: 0;
-}
-
-.bot-card p {
-  margin: 5px 0;
-}
-
-
-
-.bot-detail {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.bot-army-5 .bot-card-4 {
+  flex: 0 1 300px; 
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 20px;
+  text-align: center;
+  margin-bottom: 20px; 
+  margin-right: 20px; 
 }
 
-.bot-detail img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%; /* Make the image circular */
-  margin-bottom: 20px;
+.bot-army-5 .bot-card-4 img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }
 
-.bot-detail h3 {
-  font-size: 24px;
-  margin-bottom: 0;
-}
-
-.bot-detail p {
-  margin-bottom: 0;
-}
-
-.bot-detail button {
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: #fff;
+.bot-army-5 .bot-card-4 button {
+  background-color: #ff4136;
   border: none;
-  border-radius: 5px;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-top: 10px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  margin-left: auto;
 }
 
-.bot-detail button:hover {
-  background-color: #0056b3;
+.bot-army-5 .bot-card-4 button:hover {
+  background-color: #d50000;
 }
 
-.bot-detail button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
-}
+
 
 .back-link {
-  margin-bottom: 20px;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
   color: #007bff;
   text-decoration: none;
-  font-size: 18px;
+  font-weight: bold;
 }
 
 .back-link:hover {

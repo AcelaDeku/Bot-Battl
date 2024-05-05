@@ -15,7 +15,7 @@ function Botcollection({ bots }) {
   ));
 
   return (
-    <div className="bot-collection">
+    <div className="bot-collection-1">
       {botCards}
     </div>
   );

@@ -1,14 +1,12 @@
-
-
 import React from 'react';
 
 const BotArmy = ({ army, handleReleaseFromArmy,deleteBot }) => {
   return (
-    <div className="bot-army">
+    <div className="bot-army-5">
       <h1>Your Bot Army</h1>
-      <div className="bot-card-container">
+      <div className="bot-card-container-3">
         {army.map(bot => (
-          <div key={bot.id} className="bot-card">
+          <div key={bot.id} className="bot-card-4">
             <img src={bot.avatar_url} alt={bot.name} />
             <div>
               <h3>{bot.name}</h3>
